@@ -1,1 +1,1 @@
-# Cviceni-Upravy-pres-devtools
+# Cvičení: Úpravy přes vývojářské nástroje / devtools
