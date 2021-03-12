@@ -18,4 +18,6 @@
 
    - Přepiš kusy textu.
 
+   - Změň obrázek.
+
 1. Na závěr udělej přes vývojářské nástroje snímek, obrázek celé stránky a ten si u sebe ulož.
